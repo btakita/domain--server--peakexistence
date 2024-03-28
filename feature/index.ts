@@ -1,6 +1,7 @@
 export * from './altitude_training.js'
 export * from './anti_aging_and_life_extension_therapy.js'
 export * from './exercise_with_detox_therapy.js'
+export * from './exercise_with_ketamine_infusion_therapy.js'
 export * from './exercise_with_oxygen_therapy.js'
 export * from './feature.js'
 export * from './hyperbaric_oxygen_therapy.js'
