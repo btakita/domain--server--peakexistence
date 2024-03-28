@@ -14,4 +14,5 @@ export const exercise_with_detox_therapy = <feature_T>{
 		'enhanced-physical-performance',
 		'well-being',
 	],
+	hero_image: 'https://placehold.co/1020x520.webp',
 }

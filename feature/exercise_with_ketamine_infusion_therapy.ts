@@ -17,4 +17,5 @@ export const exercise_with_ketamine_infusion_therapy = <feature_T>{
 		'depression',
 		'mental-health',
 	],
+	hero_image: 'https://placehold.co/1020x520.webp',
 }

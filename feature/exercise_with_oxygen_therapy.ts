@@ -2,6 +2,7 @@ import { type feature_T } from './feature.js'
 export const exercise_with_oxygen_therapy = <feature_T>{
 	title: `Exercise with Oxygen Therapy (EWOT)`,
 	slug: 'exercise-with-oxygen-therapy-ewot',
+	description: `Supercharge your exercise routine & boost your overall well-being. Exercise with Oxygen Therapy (EWOT). Dr. Manny Emenike, a renowned Internal Medicine specialist & former endurance athlete. Will guide you.`,
 	tag_a1: [
 		'exercise',
 		'oxygen',
@@ -18,7 +19,6 @@ export const exercise_with_oxygen_therapy = <feature_T>{
 		'weight-loss',
 		'enhanced-physical-performance',
 	],
-	description: `Supercharge your exercise routine & boost your overall well-being.`,
 	// hero_image: exercise_with_oxygen_therapy_webp,
 	hero_image: 'https://placehold.co/1020x520.webp',
 }
