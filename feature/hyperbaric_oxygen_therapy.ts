@@ -1,5 +1,5 @@
 import { type feature_T } from './feature.js'
-export const hyperbaric_oxygen_therapy_feature = <feature_T>{
+export const hyperbaric_oxygen_therapy = <feature_T>{
 	title: 'Hyperbaric Oxygen Therapy',
 	slug: 'hyperbaric-oxygen-therapy',
 	// language=md

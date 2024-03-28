@@ -1,7 +1,7 @@
 import anti_aging_and_life_extension_therapy_webp
 	from '../public/image/article/anti-aging-and-life-extension-therapy.webp'
 import { type feature_T } from './feature.js'
-export const anti_aging_and_life_extension_therapy_feature = <feature_T>{
+export const anti_aging_and_life_extension_therapy = <feature_T>{
 	title: `Anti-Aging and Life Extension Therapy`,
 	description: `We take a holistic approach to anti-aging and life-extension therapies. That the key to graceful aging lies in addressing both the external and internal factors. That contribute to the aging process. Our treatments optimize physical health, mental well-being, and emotional balance. Helping you feel younger and more energetic from the inside out.`,
 	slug: 'anti-aging-and-life-extension-therapy',

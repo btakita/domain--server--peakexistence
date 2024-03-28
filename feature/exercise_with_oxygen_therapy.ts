@@ -1,5 +1,5 @@
 import { type feature_T } from './feature.js'
-export const exercise_with_oxygen_therapy_feature = <feature_T>{
+export const exercise_with_oxygen_therapy = <feature_T>{
 	title: `Exercise with Oxygen Therapy (EWOT)`,
 	slug: 'exercise-with-oxygen-therapy-ewot',
 	tag_a1: [

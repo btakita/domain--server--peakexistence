@@ -1,6 +1,6 @@
 import altitude_training_webp from '../public/image/article/altitude-training.webp'
 import { type feature_T } from './feature.js'
-export const altitude_training_feature = <feature_T>{
+export const altitude_training = <feature_T>{
 	title: 'Altitude Training',
 	description: `Altitude training enhances some endurance athletes' performance by increasing their oxygen-carrying capacity through living high and training low.`,
 	slug: 'altitude-training',

@@ -1,5 +1,5 @@
 import { type feature_T } from './feature.js'
-export const exercise_with_detox_therapy_feature = <feature_T>{
+export const exercise_with_detox_therapy = <feature_T>{
 	title: `Exercise with Detox Therapy`,
 	description: ``,
 	slug: 'exercise-with-detox-therapy',
