@@ -1,0 +1,47 @@
+{
+	"name": "@btakita/domain--server--peakexistence",
+	"type": "module",
+	"version": "0.0.0",
+	"description": "domain library targeting the server for peakexistence",
+	"keywords": [
+		"rappstack",
+		"reactive",
+		"full-stack",
+		"domain",
+		"server",
+		"blog"
+	],
+	"homepage": "https://github.com/btakita/domain--server--peakexistence",
+	"bugs": {
+		"url": "https://github.com/btakita/domain--server--peakexistence/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/btakita/domain--server--peakexistence.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"types": "index.ts",
+	"exports": {
+		".": "./index.ts",
+		"./feature": "./feature/index.ts",
+		"./package.json": "./package.json"
+	},
+	"files": [
+		"*.d.ts",
+		"*.js",
+		"*.json",
+		"feature"
+	],
+	"dependencies": {
+		"ctx-core": "^6.7.0",
+		"rebuildjs": "^0.67.1",
+		"relysjs": "^1.18.0"
+	},
+	"devDependencies": {
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.4.3"
+	}
+}
