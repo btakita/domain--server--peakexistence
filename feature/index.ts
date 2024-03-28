@@ -62,11 +62,30 @@ function hyperbaric_oxygen_therapy_feature_() {
 	return <feature_T>{
 		title: 'Hyperbaric Oxygen Therapy',
 		slug: 'hyperbaric-oxygen-therapy',
-		description: '',
+		// language=md
+		description: `
+Hyperbaric Oxygen Therapy (HBOT) involves administering 100% pure oxygen in a pressurized chamber. Allowing your body to absorb higher levels of oxygen than normal breathing. This increase in oxygen concentration:
+
+- promotes healing
+- accelerates tissue repair
+- enhances the body’s natural ability to fight infections
+		`.trim(),
 		tag_a1: [
 			'hyperbaric',
 			'oxygen',
 			'therapy',
+			'breath',
+			'exercise',
+			'oxygen',
+			'therapy',
+			'oxygen-therapy',
+			'stamina',
+			'accelerated-recovery',
+			'cardiovascular-health',
+			'detoxification',
+			'mental-clarity',
+			'inflammation-reduction',
+			'weight-loss',
 		],
 	}
 }
@@ -76,20 +95,20 @@ function exercise_with_oxygen_therapy_feature_() {
 		title: `Exercise with Oxygen Therapy (EWOT)`,
 		slug: 'exercise-with-oxygen-therapy-ewot',
 		tag_a1: [
-			'Exercise',
-			'Oxygen',
-			'EWOT',
-			'Exercise with Oxygen Therapy',
-			'Therapy',
-			'Oxygen Therapy',
-			'Improved Stamina',
-			'Accelerated Recovery',
-			'Cardiovascular Health',
-			'Detoxification',
-			'Mental Clarity',
-			'Inflammation Reduction',
-			'Weight Loss',
-			'Enhanced Physical Performance',
+			'exercise',
+			'oxygen',
+			'ewot',
+			'exercise-with-oxygen-therapy',
+			'therapy',
+			'oxygen-therapy',
+			'stamina',
+			'accelerated-recovery',
+			'cardiovascular-health',
+			'detoxification',
+			'mental-clarity',
+			'inflammation-reduction',
+			'weight-loss',
+			'enhanced-physical-performance',
 		],
 		description: `Supercharge your exercise routine & boost your overall well-being.`,
 		// hero_image: exercise_with_oxygen_therapy_webp,
