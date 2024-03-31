@@ -34,9 +34,9 @@
 		"feature"
 	],
 	"dependencies": {
-		"ctx-core": "^6.8.0",
-		"rebuildjs": "^0.67.6",
-		"relysjs": "^1.18.6"
+		"ctx-core": "^6.8.3",
+		"rebuildjs": "^0.67.9",
+		"relysjs": "^1.18.9"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
