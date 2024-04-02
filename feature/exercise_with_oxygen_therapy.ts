@@ -1,4 +1,4 @@
-import { type feature_T } from './feature.js'
+import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const exercise_with_oxygen_therapy = <feature_T>{
 	title: `Exercise with Oxygen Therapy (EWOT)`,
 	slug: 'exercise-with-oxygen-therapy-ewot',
@@ -20,5 +20,5 @@ export const exercise_with_oxygen_therapy = <feature_T>{
 		'enhanced-physical-performance',
 	],
 	// hero_image: exercise_with_oxygen_therapy_webp,
-	hero_image: 'https://placehold.co/1020x520.webp',
+	hero_image: placeholder_hero_image,
 }

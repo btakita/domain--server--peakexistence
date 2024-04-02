@@ -1,4 +1,4 @@
-import { type feature_T } from './feature.js'
+import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const exercise_with_ketamine_infusion_therapy = <feature_T>{
 	title: `Exercise with Ketamine Infusion Therapy`,
 	description: `Ketamine is a general anesthetic widely used in operating rooms since the 1970s. Ketamine has shown rapid and profound antidepressant effects, administered in intravenous low doses. Over 20 years of extensive research demonstrates the effectiveness of ketamine infusion therapy. In providing relief for depression and other mental health conditions.`,
@@ -17,5 +17,5 @@ export const exercise_with_ketamine_infusion_therapy = <feature_T>{
 		'depression',
 		'mental-health',
 	],
-	hero_image: 'https://placehold.co/1020x520.webp',
+	hero_image: placeholder_hero_image,
 }

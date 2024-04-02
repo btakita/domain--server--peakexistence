@@ -1,4 +1,4 @@
-import { type feature_T } from './feature.js'
+import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const hyperbaric_oxygen_therapy = <feature_T>{
 	title: 'Hyperbaric Oxygen Therapy',
 	slug: 'hyperbaric-oxygen-therapy',
@@ -27,5 +27,5 @@ Hyperbaric Oxygen Therapy (HBOT) involves administering 100% pure oxygen in a pr
 		'inflammation-reduction',
 		'weight-loss',
 	],
-	hero_image: 'https://placehold.co/1020x520.webp',
+	hero_image: placeholder_hero_image,
 }

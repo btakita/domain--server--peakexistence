@@ -1,4 +1,4 @@
-import { type feature_T } from './feature.js'
+import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const performance_improvement = <feature_T>{
 	title: `Performance Improvement`,
 	slug: 'performance-improvement',
@@ -15,5 +15,5 @@ export const performance_improvement = <feature_T>{
 		'natural-pain-relief',
 	],
 	// hero_image: exercise_with_oxygen_therapy_webp,
-	hero_image: 'https://placehold.co/1020x520.webp',
+	hero_image: placeholder_hero_image,
 }
