@@ -25,13 +25,15 @@
 	"exports": {
 		".": "./index.ts",
 		"./feature": "./feature/index.ts",
+		"./jsonld": "./jsonld/index.ts",
 		"./package.json": "./package.json"
 	},
 	"files": [
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"feature"
+		"feature",
+		"jsonld"
 	],
 	"dependencies": {
 		"ctx-core": "^7.1.0",
