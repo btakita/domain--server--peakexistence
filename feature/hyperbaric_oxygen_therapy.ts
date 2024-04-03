@@ -26,6 +26,7 @@ Hyperbaric Oxygen Therapy (HBOT) involves administering 100% pure oxygen in a pr
 		'mental-clarity',
 		'inflammation-reduction',
 		'weight-loss',
+		'non-surgical',
 	],
 	hero_image: placeholder_hero_image,
 }

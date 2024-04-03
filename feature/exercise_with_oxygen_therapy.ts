@@ -18,6 +18,7 @@ export const exercise_with_oxygen_therapy = <feature_T>{
 		'inflammation-reduction',
 		'weight-loss',
 		'enhanced-physical-performance',
+		'non-surgical',
 	],
 	// hero_image: exercise_with_oxygen_therapy_webp,
 	hero_image: placeholder_hero_image,

@@ -10,6 +10,7 @@ export const epidural_neoregeneration = <feature_T>{
 		'spine-health',
 		'nerve-damage',
 		'anti-aging',
+		'non-surgical',
 	],
 	hero_image: placeholder_hero_image,
 }

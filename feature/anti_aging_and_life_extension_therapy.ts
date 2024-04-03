@@ -23,6 +23,7 @@ export const anti_aging_and_life_extension_therapy = <feature_T>{
 		'age-defying-treatments',
 		'diet',
 		'senescence',
+		'non-surgical',
 	],
 	hero_image: anti_aging_and_life_extension_therapy_webp,
 }

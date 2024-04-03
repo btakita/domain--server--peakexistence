@@ -13,6 +13,7 @@ export const exercise_with_detox_therapy = <feature_T>{
 		'inflammation-reduction',
 		'enhanced-physical-performance',
 		'well-being',
+		'non-surgical',
 	],
 	hero_image: placeholder_hero_image,
 }

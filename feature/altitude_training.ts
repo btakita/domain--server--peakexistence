@@ -21,7 +21,8 @@ export const altitude_training = <feature_T>{
 		'live-high-train-low',
 		'iron-stores-and-nutrition',
 		'individual-response-to-hypoxia',
-		'limitations-of-high-altitude-training'
+		'limitations-of-high-altitude-training',
+		'non-surgical',
 	],
 	hero_image: altitude_training_webp,
 }

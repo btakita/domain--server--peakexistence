@@ -8,6 +8,7 @@ export const performance_improvement = <feature_T>{
 		'hyperbaric-oxygen-therapy',
 		'platelet-rich-plasma',
 		'bone-marrow-aspirate',
+		'non-surgical',
 		'iv-vitamins',
 		'sports-nutrition',
 		'supplementation',

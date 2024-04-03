@@ -16,6 +16,7 @@ export const exercise_with_ketamine_infusion_therapy = <feature_T>{
 		'anxiety',
 		'depression',
 		'mental-health',
+		'non-surgical',
 	],
 	hero_image: placeholder_hero_image,
 }
