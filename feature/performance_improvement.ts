@@ -14,6 +14,7 @@ export const performance_improvement = <feature_T>{
 		'supplementation',
 		'hormone-balancing',
 		'natural-pain-relief',
+		'non-surgical',
 	],
 	// hero_image: exercise_with_oxygen_therapy_webp,
 	hero_image: placeholder_hero_image,
