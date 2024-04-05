@@ -1,6 +1,7 @@
 export * from './_subtle.js'
 export * from './altitude_training.js'
 export * from './anti_aging_and_life_extension_therapy.js'
+export * from './comprehensive_wellness_testing_and_screening.js'
 export * from './epidural_neoregeneration.js'
 export * from './exercise_with_detox_therapy.js'
 export * from './exercise_with_ketamine_infusion_therapy.js'
