@@ -16,6 +16,7 @@ export const infrared_and_red_light_therapy = <feature_T>{
 		'skin-health',
 		'pain-management',
 		'muscle-recovery',
+		'cellular-energy',
 		'non-surgical',
 	],
 	hero_image: placeholder_hero_image,
