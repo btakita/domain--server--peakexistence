@@ -13,6 +13,7 @@ export const anti_aging_and_life_extension_therapy = <feature_T>{
 		'emotional-health',
 		'health-and-vitality',
 		'holistic-wellness',
+		'life-ext',
 		'life-extension',
 		'life-extension-supplements',
 		'lifespan-extension',
