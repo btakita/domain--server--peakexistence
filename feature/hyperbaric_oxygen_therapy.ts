@@ -2,8 +2,9 @@ import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const hyperbaric_oxygen_therapy = <feature_T>{
 	title: 'Hyperbaric Oxygen Therapy',
 	slug: 'hyperbaric-oxygen-therapy',
+	description: `Hyperbaric Oxygen Therapy (HBOT) involves administering 100% pure oxygen in a pressurized chamber. Allowing your body to absorb higher levels of oxygen than normal breathing. This increase in oxygen concentration: Promotes healing. Accelerates tissue repair. Enhances the body’s natural ability to fight infections.`,
 	// language=md
-	description: `
+	description_md: `
 Hyperbaric Oxygen Therapy (HBOT) involves administering 100% pure oxygen in a pressurized chamber. Allowing your body to absorb higher levels of oxygen than normal breathing. This increase in oxygen concentration:
 
 - promotes healing

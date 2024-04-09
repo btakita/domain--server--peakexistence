@@ -3,6 +3,7 @@ export type feature_T = {
 	title:string
 	subtitle?:string
 	description:string
+	description_md?:string
 	slug:string
 	tag_a1:string[]
 	hero_image?:string
