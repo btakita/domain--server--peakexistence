@@ -2,8 +2,15 @@ import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const ultrasonic_screening_of_chronic_vessel_disease = <feature_T>{
 	title: 'Ultrasonic Screening of Chronic Vessels',
 	slug: 'ultrasonic-screening-of-chronic-vessel-disease',
-	// language=md
 	description: `Ultrasonic Screening uses high-frequency sound waves. To create detailed images of the body's internal structures & blood vessels. Early detection and intervention are crucial in preventing serious complications from vascular diseases. Chronic vascular diseases are leading causes of morbidity and mortality worldwide. Including heart attacks, strokes, and amputations.`,
+	// language=md
+	description_md: `
+Ultrasonic Screening uses high-frequency sound waves. To create detailed images of the body's internal structures & blood vessels. Early detection and intervention are crucial in preventing serious complications from vascular diseases. Chronic vascular diseases are leading causes of morbidity and mortality worldwide. Including:
+
+- heart attacks
+- strokes
+- amputations
+	`.trim(),
 	tag_a1: [
 		'ultrasonic-screening-of-chronic-vessel-disease',
 		'ultrasonic-screening',

@@ -3,6 +3,7 @@ import { type feature_T } from './_subtle.js'
 export const altitude_training = <feature_T>{
 	title: 'Altitude Training',
 	description: `Altitude training enhances some endurance athletes' performance by increasing their oxygen-carrying capacity through living high and training low.`,
+	description_md: `Our facility offers expert guidance, cutting-edge equipment, and personalized training plans. To enhance endurance, speed up recovery, and boost performance. Join us to unlock your fitness potential. Conquer your goals with altitude training.`,
 	slug: 'altitude-training',
 	tag_a1: [
 		'altitude',
