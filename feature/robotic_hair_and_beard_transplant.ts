@@ -6,6 +6,7 @@ export const robotic_hair_and_beard_transplant = <feature_T>{
 	tag_a1: [
 		'beard-transplant',
 		'hair-transplant',
+		'follicular-unit-extraction',
 		'non-surgical',
 		'robotic-hair-and-beard-transplant',
 	],
