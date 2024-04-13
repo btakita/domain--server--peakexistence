@@ -6,6 +6,7 @@ export const kyphoplasty_spinal_fracture_treatment = <feature_T>{
 	tag_a1: [
 		'kyphoplasty',
 		'kyphoplasty-spinal-fracture-treatment',
+		'minimally-invasive-spine-surgery',
 		'osteoporosis',
 		'osteoporosis-fracture-treatment',
 	],

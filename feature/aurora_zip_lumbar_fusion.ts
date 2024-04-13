@@ -11,6 +11,7 @@ export const aurora_zip_lumbar_fusion = <feature_T>{
 		'lower-back-pain',
 		'lumbar-radiculopathy',
 		'lumbar-spine',
+		'minimally-invasive-spine-surgery',
 		'spinal-stenosis',
 		'spine-surgery',
 		'spondylolisthesis',
