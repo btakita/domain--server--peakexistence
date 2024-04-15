@@ -9,6 +9,7 @@ export const minimally_invasive_spinal_surgery = <feature_T>{
 		'back-pain',
 		'discseel-procedure',
 		'kyphoplasty',
+		'minimally-invasive-spinal-fusion',
 		'minimally-invasive-spinal-surgery',
 		'percutaneous-spine-descompression',
 		'spinal-cord-stimulation',
