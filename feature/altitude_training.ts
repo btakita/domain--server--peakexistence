@@ -2,8 +2,7 @@ import altitude_training_webp from '../public/image/article/altitude-training.we
 import { type feature_T } from './_subtle.js'
 export const altitude_training = <feature_T>{
 	title: 'Altitude Training',
-	description: `Altitude training enhances some endurance athletes' performance by increasing their oxygen-carrying capacity through living high and training low.`,
-	description_md: `Our facility offers expert guidance, cutting-edge equipment, and personalized training plans. To enhance endurance, speed up recovery, and boost performance. Join us to unlock your fitness potential. Conquer your goals with altitude training.`,
+	description: `Altitude training is a practice embraced by endurance athletes worldwide. Leveraging the physiological challenges posed by high-altitude environments to enhance athletic performance. Using the body's adaptive responses to hypoxia (low oxygen levels). To increase red blood cell count & oxygen-carrying capacity.`,
 	slug: 'altitude-training',
 	tag_a1: [
 		'altitude',
