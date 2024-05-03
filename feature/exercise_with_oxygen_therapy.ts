@@ -1,8 +1,16 @@
+import { nl } from '@rappstack/ui--any/string'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const exercise_with_oxygen_therapy = <feature_T>{
 	title: `Exercise with Oxygen Therapy (EWOT)`,
 	slug: 'exercise-with-oxygen-therapy-ewot',
-	description: `Supercharge your exercise routine & boost your overall well-being. Exercise with Oxygen Therapy (EWOT). Dr. Manny Emenike, a renowned Internal Medicine specialist & former endurance athlete. Will guide you.`,
+	description: `Exercise with Oxygen Therapy (EWOT) is a therapeutic technique. That combines physical activity with the inhalation with the inhalation of enriched oxygen. To enhance physiological & cognitive functions. By enhancing oxygen availability to the tissues. This method leverages the increased availability of oxygen to improve athletic performance, accelerate recovery, & support overall health.`,
+	description_md: [
+		`Exercise with Oxygen Therapy (EWOT) is a therapeutic technique. That combines physical activity with the inhalation with the inhalation of enriched oxygen. To enhance physiological & cognitive functions. By enhancing oxygen availability to the tissues. This method leverages the increased availability of oxygen to:`,
+		``,
+		`- improved athletic performance`,
+		`- accelerate recovery`,
+		`- support overall health`,
+	].join(nl),
 	tag_a1: [
 		'exercise',
 		'oxygen',
