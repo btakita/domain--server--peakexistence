@@ -1,7 +1,7 @@
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const infrared_and_red_light_therapy = <feature_T>{
 	title: 'Infrared & Red Light Therapy',
-	description: `The sun's warmth on your skin is a comforting sensation. Red light therapy treatments harness specific wavelengths of light. To penetrate the skin, aiming to rejuvenate, heal, and energize at a cellular level.`,
+	description: `Infrared and red light therapy, collectively known as photobiomodulation (PBM), are non-invasive treatments that use specific wavelengths of light to penetrate the skin & promote cellular repair & regeneration. These therapies have gained significant attention in the medical community for their ability to alleviate pain, reduce inflammation, enhance skin health, & accelerate healing.`,
 	slug: 'infrared-and-red-light-therapy',
 	tag_a1: [
 		'infrared-and-red-light-therapy',
