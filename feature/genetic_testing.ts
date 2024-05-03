@@ -1,7 +1,7 @@
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const genetic_testing = <feature_T>{
 	title: 'Genetic Testing',
-	description: `Genetic testing is a transformative tool, offering insights deep within our biological blueprints. This approach not paves the way for personalized medicine. And empowers individuals with knowledge about their genetic predispositions.`,
+	description: `Genetic Testing involves analyzing DNA. The chemical database that carries instructions for an individual's biological functions. To detect genetic variations that may cause illness or influence a person's response to medications. This approach paves the way for personalized medicine. And empowers individuals with knowledge about their genetic predispositions.`,
 	slug: 'genetic-testing',
 	tag_a1: [
 		'genetic-testing',
