@@ -2,7 +2,7 @@ import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const naltrexone_implants = <feature_T>{
 	title: `Naltrexone Implants`,
 	slug: 'naltrexone-implants',
-	description: `Naltrexone is a medication primarily used to treat opioid and alcohol addiction. Naltrexone blocks the brain receptors that create the pleasurable effects of opioids & alcohol. This helps reduce cravings and decrease the likelihood of relapse, promoting sobriety.`,
+	description: `Naltrexone is a medication primarily used to treat opioid & alcohol addiction. Naltrexone blocks the brain receptors that create the pleasurable effects of opioids & alcohol. This helps reduce cravings & decrease the likelihood of relapse, promoting sobriety.`,
 	tag_a1: [
 		'naltrexone',
 		'naltrexone-implants',
