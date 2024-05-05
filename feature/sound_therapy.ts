@@ -1,7 +1,7 @@
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const sound_therapy = <feature_T>{
 	title: `Sound Therapy`,
-	description: `Cultures around the word use sound as therapy, for centuries. Modern sound therapy harnesses the power of specific frequencies, vibrations, and music. To promote relaxation, healing, and personal growth.`,
+	description: `Sound therapy is a harmonious blend of ancient tradition & contemporary healing practices. Leveraging the intrinsic power of sound & vibration. This therapeutic approach transcends mere relaxation. Offering profound healing benefits for both the mind & body.`,
 	slug: 'sound-therapy',
 	tag_a1: [
 		'anxiety',
