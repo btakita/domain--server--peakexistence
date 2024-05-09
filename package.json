@@ -36,9 +36,9 @@
 		"jsonld"
 	],
 	"dependencies": {
-		"ctx-core": "^7.2.6",
-		"rebuildjs": "^0.70.10",
-		"relysjs": "^1.21.23"
+		"ctx-core": "^7.2.7",
+		"rebuildjs": "^0.70.11",
+		"relysjs": "^1.21.24"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
