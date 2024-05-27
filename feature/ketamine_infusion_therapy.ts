@@ -8,7 +8,6 @@ export const ketamine_infusion_therapy = <feature_T>{
 		'therapy',
 		'ketamine-therapy',
 		'inflammation-reduction',
-		'enhanced-physical-performance',
 		'well-being',
 		'anxiety',
 		'depression',
