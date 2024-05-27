@@ -4,7 +4,6 @@ export const ketamine_infusion_therapy = <feature_T>{
 	description: `Ketamine is a promising treatment for major depressive disorder (MDD) & treatment-resistant depression (TRD). This innovative therapy offers rapid relief from depressive symptoms. Particularly for individuals who have not responded to conventional treatments.`,
 	slug: 'ketamine-infusion-therapy',
 	tag_a1: [
-		'exercise',
 		'ketamine',
 		'therapy',
 		'ketamine-therapy',
