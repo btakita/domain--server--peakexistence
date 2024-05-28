@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import blood_flow_analysis_webp from '../public/image/article/blood-flow-analysis.webp'
+import { type feature_T } from './_subtle.js'
 export const blood_flow_analysis = <feature_T>{
 	title: 'Blood Flow Analysis',
 	slug: 'blood-flow-analysis',
@@ -12,5 +13,5 @@ export const blood_flow_analysis = <feature_T>{
 		'blood-health',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image: blood_flow_analysis_webp,
 }
