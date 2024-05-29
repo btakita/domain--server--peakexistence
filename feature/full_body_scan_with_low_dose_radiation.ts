@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/full-body-scan-with-low-dose-radiation.webp'
+import { type feature_T } from './_subtle.js'
 export const full_body_scan_with_low_dose_radiation = <feature_T>{
 	title: 'Full Body Scan with Low Dose Radiation',
 	description: `Full body scans offer a comprehensive glimpse into the body's inner workings. Providing crucial information that can lead to early detection and prevention of diseases.`,
@@ -13,5 +14,5 @@ export const full_body_scan_with_low_dose_radiation = <feature_T>{
 		'body-scan',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

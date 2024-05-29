@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/infrared-and-red-light-therapy.webp'
+import { type feature_T } from './_subtle.js'
 export const infrared_and_red_light_therapy = <feature_T>{
 	title: 'Infrared & Red Light Therapy',
 	description: `Infrared and red light therapy, collectively known as photobiomodulation (PBM), are non-invasive treatments that use specific wavelengths of light to penetrate the skin & promote cellular repair & regeneration. These therapies have gained significant attention in the medical community for their ability to alleviate pain, reduce inflammation, enhance skin health, & accelerate healing.`,
@@ -19,5 +20,5 @@ export const infrared_and_red_light_therapy = <feature_T>{
 		'cellular-energy',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

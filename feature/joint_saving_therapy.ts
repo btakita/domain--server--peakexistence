@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/joint-saving-therapy.webp'
+import { type feature_T } from './_subtle.js'
 export const joint_saving_therapy = <feature_T>{
 	title: 'Joint Saving Therapy',
 	subtitle: 'Mobility Without Surgery',
@@ -10,5 +11,5 @@ export const joint_saving_therapy = <feature_T>{
 		'joint-health',
 		'mobility',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

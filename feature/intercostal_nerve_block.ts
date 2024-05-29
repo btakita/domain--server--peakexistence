@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/intercostal-nerve-block.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const intercostal_nerve_block = <feature_T>{
 	title: 'Intercostal Nerve Block',
@@ -10,5 +11,5 @@ export const intercostal_nerve_block = <feature_T>{
 		'surgery',
 		'sobriety',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }
