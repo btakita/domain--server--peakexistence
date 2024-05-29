@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/discseel-procedure.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const discseel_procedure = <feature_T>{
 	title: `Discseel® Procedure`,
@@ -7,5 +8,5 @@ export const discseel_procedure = <feature_T>{
 		'discseel',
 		'discseel-procedure',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

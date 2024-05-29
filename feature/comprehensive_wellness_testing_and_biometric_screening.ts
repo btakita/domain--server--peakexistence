@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/comprehensive-wellness-testing-and-biometric-screening.webp'
+import { type feature_T } from './_subtle.js'
 export const comprehensive_wellness_testing_and_biometric_screening = <feature_T>{
 	title: 'Comprehensive Wellness Testing & Biometric Screening',
 	description: `Comprehensive wellness testing and biometric screening stand are pillars of proactive health management. This diagnostic duo offers a deep dive into the intricacies of your health. Providing actionable insights that pave the way for personalized health strategies.`,
@@ -27,5 +28,5 @@ export const comprehensive_wellness_testing_and_biometric_screening = <feature_T
 		'yearly-checkup',
 		'yearly-checkup-for-women',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/epidural-neoregeneration.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const epidural_neoregeneration = <feature_T>{
 	title: 'Epidural Neoregeneration',
@@ -28,5 +29,5 @@ export const epidural_neoregeneration = <feature_T>{
 		'spine-health',
 		'spine-surgeons',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

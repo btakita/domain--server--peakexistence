@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import cardiovascular_health_webp from '../public/image/article/cardiovascular-health.webp'
+import { type feature_T } from './_subtle.js'
 export const cardiovascular_health = <feature_T>{
 	title: 'Cardiovascular Health',
 	slug: 'cardiovascular-health',
@@ -16,5 +17,5 @@ export const cardiovascular_health = <feature_T>{
 		'stress-management',
 		'yoga',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image: cardiovascular_health_webp,
 }

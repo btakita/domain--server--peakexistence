@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/erectile-dysfunction-treatment.webp'
+import { type feature_T } from './_subtle.js'
 export const erectile_dysfunction_treatment = <feature_T>{
 	title: 'Erectile Dysfunction Treatment',
 	slug: 'erectile-dysfunction-treatment',
@@ -9,5 +10,5 @@ export const erectile_dysfunction_treatment = <feature_T>{
 		'erectile-dysfunction-treatment',
 		'preventative-care',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

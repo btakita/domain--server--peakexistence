@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/early-disease-detection.webp'
+import { type feature_T } from './_subtle.js'
 export const early_disease_detection = <feature_T>{
 	title: 'Early Disease Detection',
 	slug: 'early-disease-detection',
@@ -9,5 +10,5 @@ export const early_disease_detection = <feature_T>{
 		'early-disease-detection',
 		'preventative-care',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

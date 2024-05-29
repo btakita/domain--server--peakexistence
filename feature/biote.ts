@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/biote.webp'
+import { type feature_T } from './_subtle.js'
 export const biote = <feature_T>{
 	title: 'BioTE®',
 	slug: 'biote',
@@ -7,5 +8,5 @@ export const biote = <feature_T>{
 		'biote',
 		'hormone-replacement-therapy'
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

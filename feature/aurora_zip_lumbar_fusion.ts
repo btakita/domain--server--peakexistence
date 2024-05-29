@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/aurora-zip-lumbar-fusion.webp'
+import { type feature_T } from './_subtle.js'
 export const aurora_zip_lumbar_fusion = <feature_T>{
 	title: `Aurora ZIP™ Lumbar Fusion`,
 	description: `Aurora ZIP™ Lumbar Fusion is a newer type of spinal fusion surgery. Designed to promote stability for conditions like degenerative disc disease or spondylolisthesis. Of the lower spine (lumbar region). The Aurora ZIP™ system utilizes a patented approach that minimizes surgical disruption.`,
@@ -16,5 +17,5 @@ export const aurora_zip_lumbar_fusion = <feature_T>{
 		'spine-surgery',
 		'spondylolisthesis',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

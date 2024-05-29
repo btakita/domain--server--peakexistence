@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/bone-marrow-aspiration.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const bone_marrow_aspiration = <feature_T>{
 	title: `Bone Marrow Aspiration`,
@@ -8,5 +9,5 @@ export const bone_marrow_aspiration = <feature_T>{
 		'bone-marrow-aspiration',
 		'diagnostics'
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }
