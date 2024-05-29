@@ -1,5 +1,6 @@
 import { nl } from '@rappstack/ui--any/string'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/exercise-with-oxygen-therapy-ewot.webp'
+import { type feature_T } from './_subtle.js'
 export const exercise_with_oxygen_therapy = <feature_T>{
 	title: `Exercise with Oxygen Therapy (EWOT)`,
 	slug: 'exercise-with-oxygen-therapy-ewot',
@@ -28,6 +29,5 @@ export const exercise_with_oxygen_therapy = <feature_T>{
 		'enhanced-physical-performance',
 		'non-surgical',
 	],
-	// hero_image: exercise_with_oxygen_therapy_webp,
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

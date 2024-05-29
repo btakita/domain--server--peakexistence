@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/exosome-therapy.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const exosome_therapy = <feature_T>{
 	title: `Exosome Therapy`,
@@ -8,5 +9,5 @@ export const exosome_therapy = <feature_T>{
 		'exosome-therapy',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

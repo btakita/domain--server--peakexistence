@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/extracoporal-shock-wave-therapy.webp'
+import { type feature_T } from './_subtle.js'
 export const extracoporal_shock_wave_therapy = <feature_T>{
 	title: `Extracoporal Shock Wave Therapy`,
 	description: `Extracorporeal shock wave therapy (ESWT) is a non-invasive treatment modality that utilizes high-energy acoustic waves to stimulate healing and reduce pain in various musculoskeletal conditions.`,
@@ -7,5 +8,5 @@ export const extracoporal_shock_wave_therapy = <feature_T>{
 		'extracoporal-shock-wave-therapy',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

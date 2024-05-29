@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/exercise-with-ketamine-infusion-therapy.webp'
+import { type feature_T } from './_subtle.js'
 /**
  * Only kept for historical reasons. Do not include in site.
  */
@@ -21,5 +22,5 @@ export const exercise_with_ketamine_infusion_therapy = <feature_T>{
 		'mental-health',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }
