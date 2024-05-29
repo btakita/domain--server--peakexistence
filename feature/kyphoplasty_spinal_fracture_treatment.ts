@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/kyphoplasty-spinal-fracture-treatment.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const kyphoplasty_spinal_fracture_treatment = <feature_T>{
 	title: `Kyphoplasty Spinal Fracture Treatment`,
@@ -10,5 +11,5 @@ export const kyphoplasty_spinal_fracture_treatment = <feature_T>{
 		'osteoporosis',
 		'osteoporosis-fracture-treatment',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/ketamine-infusion-therapy.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const ketamine_infusion_therapy = <feature_T>{
 	title: `Ketamine Infusion Therapy`,
@@ -14,5 +15,5 @@ export const ketamine_infusion_therapy = <feature_T>{
 		'mental-health',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/minimally-invasive-spinal-fusion.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const minimally_invasive_spinal_fusion = <feature_T>{
 	title: 'Minimally Invasive Spinal Fusion',
@@ -11,5 +12,5 @@ export const minimally_invasive_spinal_fusion = <feature_T>{
 		'percutaneous-spine-descompression',
 		'spine-health',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }
