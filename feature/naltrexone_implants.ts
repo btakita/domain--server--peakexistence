@@ -13,6 +13,5 @@ export const naltrexone_implants = <feature_T>{
 		'alcohol-rehab',
 		'sobriety',
 	],
-	// hero_image: exercise_with_oxygen_therapy_webp,
 	hero_image,
 }

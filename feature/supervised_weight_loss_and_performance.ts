@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/supervised-weight-loss-and-performance.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const supervised_weight_loss_and_performance = <feature_T>{
 	title: 'Supervised Weight Loss & Performance',
@@ -14,5 +15,5 @@ export const supervised_weight_loss_and_performance = <feature_T>{
 		'weight-loss',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

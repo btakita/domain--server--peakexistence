@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/psychedelic-therapy.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const psychedelic_therapy = <feature_T>{
 	title: `Psychedelic Therapy`,
@@ -10,6 +11,5 @@ export const psychedelic_therapy = <feature_T>{
 		'well-being',
 		'non-surgical',
 	],
-	// hero_image: exercise_with_oxygen_therapy_webp,
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

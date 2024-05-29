@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/traumatic-brain-injury-concussion-diagnostics-therapy.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const traumatic_brain_injury_concussion_diagnostics_therapy = <feature_T>{
 	title: `Traumatic Brain Injury (TBI) + Concussion Diagnostics & Therapy`,
@@ -14,5 +15,5 @@ export const traumatic_brain_injury_concussion_diagnostics_therapy = <feature_T>
 		'traumatic-brain-injury',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

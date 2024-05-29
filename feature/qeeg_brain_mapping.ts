@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/qeeg-brain-mapping.webp'
+import { type feature_T } from './_subtle.js'
 export const qeeg_brain_mapping = <feature_T>{
 	title: `QEEG & Brain Mapping Technology`,
 	description: `Quantitative Electroencephalography (QEEG) is commonly known as brain mapping. QEEG measures the brain's electrical activity to provide detailed insights into its functioning. QEEG is non-invasive. A valuable tool in diagnosing & treating various neurological & psychiatric conditions.`,
@@ -14,5 +15,5 @@ export const qeeg_brain_mapping = <feature_T>{
 		'qeeg-diagnostics',
 		'quantitative-electroencephalography',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

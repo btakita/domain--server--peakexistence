@@ -1,4 +1,5 @@
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/ultrasonic-screening-of-chronic-vessel-disease.webp'
+import { type feature_T } from './_subtle.js'
 export const ultrasonic_screening_of_chronic_vessel_disease = <feature_T>{
 	title: 'Ultrasonic Screening of Chronic Vessels',
 	slug: 'ultrasonic-screening-of-chronic-vessel-disease',
@@ -36,5 +37,5 @@ Ultrasonic Screening uses high-frequency sound waves. To create detailed images 
 		'vessel',
 		'non-surgical',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

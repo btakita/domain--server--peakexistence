@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/transcranial-magnetic-stimulation.webp'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const transcranial_magnetic_stimulation = <feature_T>{
 	title: `Transcranial Magnetic Stimulation (TMS)`,
@@ -16,5 +17,5 @@ export const transcranial_magnetic_stimulation = <feature_T>{
 		'tms-therapy',
 		'transcranial-magnetic-stimulation',
 	],
-	hero_image: placeholder_hero_image,
+	hero_image,
 }

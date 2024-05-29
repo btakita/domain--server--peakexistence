@@ -1,3 +1,4 @@
+import hero_image from '../public/image/article/performance-improvement.webp'
 import { nl } from '@rappstack/ui--any/string'
 import { type feature_T, placeholder_hero_image } from './_subtle.js'
 export const performance_improvement = <feature_T>{
@@ -27,6 +28,5 @@ export const performance_improvement = <feature_T>{
 		'natural-pain-relief',
 		'non-surgical',
 	],
-	// hero_image: exercise_with_oxygen_therapy_webp,
-	hero_image: placeholder_hero_image,
+	hero_image,
 }
