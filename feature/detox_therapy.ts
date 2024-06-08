@@ -1,12 +1,15 @@
+import { lines_ } from '@rappstack/ui--any/string'
 import hero_image from '../public/image/article/detox-therapy.webp'
 import { type feature_T } from './_subtle.js'
-/**
- * Not a therapy. Use Detox Therapy.
- */
-export const exercise_with_detox_therapy = <feature_T>{
-	title: `Exercise with Detox Therapy`,
-	description: `This approach offers a comprehensive pathway to enhanced wellness. Blending the dynamic world of exercise with the rejuvenating effects of detox therapy. By harmonizing the body's natural purification processes with targeted physical activity. Individuals can unlock a new level of vitality, clarity, & balance. Exercise with Detox Therapy not only amplifies the detoxifying capabilities. But also sets the stage for a healthier lifestyle. Promising a holistic transformation that resonates with both the body & mind.`,
-	slug: 'exercise-with-detox-therapy',
+export const detox_therapy = <feature_T>{
+	title: `Detox Therapy`,
+	description: `Detox therapy is a critical first step in the journey to recovery from substance abuse & addiction. It involves the process of eliminating toxins from the body, managing withdrawal symptoms, & preparing individuals for ongoing treatment.`,
+	description_md: lines_(
+		`Detox therapy is a critical first step in the journey to recovery from substance abuse & addiction. It involves the process of:`,
+		`- eliminating toxins from the body`,
+		`- managing withdrawal symptoms`,
+		`- preparing individuals for ongoing treatment`,),
+	slug: 'detox-therapy',
 	tag_a1: [
 		'addiction-rehab',
 		'alcohol-detox',
@@ -22,7 +25,6 @@ export const exercise_with_detox_therapy = <feature_T>{
 		'drug-detox',
 		'drug-rehab',
 		'enhanced-physical-performance',
-		'exercise-therapy',
 		'inpatient-rehab',
 		'medical-detox',
 		'non-surgical',
@@ -40,5 +42,4 @@ export const exercise_with_detox_therapy = <feature_T>{
 		'well-being',
 	],
 	hero_image,
-	draft: true,
 }
