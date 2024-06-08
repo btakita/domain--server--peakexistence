@@ -1,5 +1,8 @@
 import hero_image from '../public/image/article/intercostal-nerve-block.webp'
 import { type feature_T } from './_subtle.js'
+/**
+ * Intercostal Nerve Block is a minor procedure. Part of other procedures. Not featured.
+ */
 export const intercostal_nerve_block = <feature_T>{
 	title: 'Intercostal Nerve Block',
 	slug: 'intercostal-nerve-block',
@@ -12,4 +15,5 @@ export const intercostal_nerve_block = <feature_T>{
 		'sobriety',
 	],
 	hero_image,
+	draft: true,
 }

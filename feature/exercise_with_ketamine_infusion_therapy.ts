@@ -23,4 +23,5 @@ export const exercise_with_ketamine_infusion_therapy = <feature_T>{
 		'non-surgical',
 	],
 	hero_image,
+	draft: true,
 }
