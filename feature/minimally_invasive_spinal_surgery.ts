@@ -1,5 +1,5 @@
 import hero_image from '../public/image/article/minimally-invasive-spinal-surgery.webp'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import { type feature_T } from './_subtle.js'
 export const minimally_invasive_spinal_surgery = <feature_T>{
 	title: 'Minimally Invasive Spinal Surgery',
 	slug: 'minimally-invasive-spinal-surgery',

@@ -1,5 +1,5 @@
 import hero_image from '../public/image/article/intercostal-nerve-block.webp'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import { type feature_T } from './_subtle.js'
 export const intercostal_nerve_block = <feature_T>{
 	title: 'Intercostal Nerve Block',
 	slug: 'intercostal-nerve-block',

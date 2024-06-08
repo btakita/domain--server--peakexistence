@@ -1,5 +1,5 @@
 import hero_image from '../public/image/article/transcranial-magnetic-stimulation.webp'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import { type feature_T } from './_subtle.js'
 export const transcranial_magnetic_stimulation = <feature_T>{
 	title: `Transcranial Magnetic Stimulation (TMS)`,
 	description: `Transcranial Magnetic Stimulation (TMS) is a noninvasive brain stimulation technique. That has gained significant attention for its effectiveness in treating various neuropsychiatric conditions. Particularly major depressive disorder (MDD) and treatment-resistant depression (TRD).`,

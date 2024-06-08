@@ -1,5 +1,5 @@
 import hero_image from '../public/image/article/epidural-neoregeneration.webp'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import { type feature_T } from './_subtle.js'
 export const epidural_neoregeneration = <feature_T>{
 	title: 'Epidural Neoregeneration',
 	slug: 'epidural-neoregeneration',

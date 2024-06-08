@@ -1,5 +1,5 @@
 import hero_image from '../public/image/article/spinal-cord-stimulation.webp'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import { type feature_T } from './_subtle.js'
 export const spinal_cord_stimulation = <feature_T>{
 	title: 'Spinal Cord Stimulation',
 	slug: 'spinal-cord-stimulation',

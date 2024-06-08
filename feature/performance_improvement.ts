@@ -1,6 +1,6 @@
-import hero_image from '../public/image/article/performance-improvement.webp'
 import { nl } from '@rappstack/ui--any/string'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import hero_image from '../public/image/article/performance-improvement.webp'
+import { type feature_T } from './_subtle.js'
 export const performance_improvement = <feature_T>{
 	title: `Performance Improvement`,
 	slug: 'performance-improvement',

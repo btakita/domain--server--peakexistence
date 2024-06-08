@@ -1,5 +1,5 @@
 import hero_image from '../public/image/article/naltrexone-implants.webp'
-import { type feature_T, placeholder_hero_image } from './_subtle.js'
+import { type feature_T } from './_subtle.js'
 export const naltrexone_implants = <feature_T>{
 	title: `Naltrexone Implants`,
 	slug: 'naltrexone-implants',
