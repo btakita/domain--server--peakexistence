@@ -1,5 +1,8 @@
 import hero_image from '../public/image/article/epidural-neoregeneration.webp'
 import { type feature_T } from './_subtle.js'
+/**
+ * Does not exist as a practice. Under Investigation as to how this was included.
+ */
 export const epidural_neoregeneration = <feature_T>{
 	title: 'Epidural Neoregeneration',
 	slug: 'epidural-neoregeneration',
@@ -30,4 +33,5 @@ export const epidural_neoregeneration = <feature_T>{
 		'spine-surgeons',
 	],
 	hero_image,
+	draft: true,
 }
