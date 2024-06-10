@@ -24,6 +24,7 @@
 	"types": "index.ts",
 	"exports": {
 		".": "./index.ts",
+		"./contact": "./contact/index.ts",
 		"./feature": "./feature/index.ts",
 		"./jsonld": "./jsonld/index.ts",
 		"./package.json": "./package.json"
@@ -32,6 +33,7 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
+		"contact",
 		"feature",
 		"jsonld"
 	],
