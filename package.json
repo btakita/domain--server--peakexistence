@@ -43,7 +43,8 @@
 		"relysjs": "^1.21.47"
 	},
 	"devDependencies": {
-		"bun-types": "latest"
+		"bun-types": "latest",
+		"schema-dts": "^1.1.2"
 	},
 	"peerDependencies": {
 		"typescript": "^5.4.5"
