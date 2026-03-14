@@ -38,6 +38,8 @@
 		"jsonld"
 	],
 	"dependencies": {
+		"@rappstack/domain--server": "^0.1.0",
+		"@rappstack/ui--any": "^0.1.0",
 		"ctx-core": "^7.2.27",
 		"rebuildjs": "^0.70.37",
 		"relysjs": "^1.21.65"
