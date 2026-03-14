@@ -5,7 +5,7 @@ export const eureka_diagnostics_reference_lab = <feature_T>{
 	slug: 'eureka-diagnostics-reference-lab',
 	// language=md
 	description: `Eureka Diagnostics provides precise, reliable, and rapid diagnostic services. Eureka Diagnostics leverages the latest in medical technology to deliver comprehensive testing solutions.`,
-	tag_a1: [
+	tags: [
 		'blood-test',
 		'bloodwork',
 		'diagnostics-lab',

@@ -12,7 +12,7 @@ export const hyperbaric_oxygen_therapy = <feature_T>{
 		`- promotes healing`,
 		`- accelerates tissue repair`,
 		`- enhances the body’s natural ability to fight infections, including long COVID`].join(nl),
-	tag_a1: [
+	tags: [
 		'hyperbaric',
 		'oxygen',
 		'therapy',

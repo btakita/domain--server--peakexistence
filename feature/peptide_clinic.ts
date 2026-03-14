@@ -4,7 +4,7 @@ export const peptide_clinic = <feature_T>{
 	title: 'Peptide Clinic',
 	description: `Peptides are short chains of amino acids. Peptides are the building blocks of proteins in the body. They play a pivotal role in numerous biological processes. Peptide clinics specialize in the therapeutic use of peptides. To treat a wide array of conditions and improve health outcomes.`,
 	slug: 'peptide-clinic',
-	tag_a1: [
+	tags: [
 		'myers-cocktail-with-nad-and-glutathione',
 		'myers-cocktail',
 		'nad',

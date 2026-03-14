@@ -4,7 +4,7 @@ export const psychedelic_therapy = <feature_T>{
 	title: `Psychedelic Therapy`,
 	slug: 'psychedelic-therapy',
 	description: `Psychedelic Exercise Therapy combines physical activity and carefully administered psychedelic substances. To improve PTSD, mental health, & overall well-being.`,
-	tag_a1: [
+	tags: [
 		'psychedelic-therapy',
 		'anxiety',
 		'ketamine',

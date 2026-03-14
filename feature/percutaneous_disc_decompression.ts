@@ -12,7 +12,7 @@ Percutaneous Disc Decompression is a minimally invasive surgical technique. Desi
 - radiculopathy
 	`.trim(),
 	slug: 'percutaneous-disc-decompression',
-	tag_a1: [
+	tags: [
 		'minimally-invasive-spine-surgery',
 		'percutaneous-disc-decompression',
 	],

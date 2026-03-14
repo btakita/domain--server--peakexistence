@@ -12,7 +12,7 @@ export const exercise_with_oxygen_therapy = <feature_T>{
 		`- accelerate recovery`,
 		`- support overall health`,
 	].join(nl),
-	tag_a1: [
+	tags: [
 		'exercise',
 		'oxygen',
 		'ewot',

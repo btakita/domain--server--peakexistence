@@ -4,7 +4,7 @@ export const blood_flow_analysis = <feature_T>{
 	title: 'Blood Flow Analysis',
 	slug: 'blood-flow-analysis',
 	description: `Measures velocity, volume, and turbulence of blood flow. Blood flow analysis provides essential insights into your cardiovascular health. Enabling early detection and management of a wide range of health conditions.`,
-	tag_a1: [
+	tags: [
 		'blood-flow',
 		'blood-flow-analysis',
 		'brain-health',

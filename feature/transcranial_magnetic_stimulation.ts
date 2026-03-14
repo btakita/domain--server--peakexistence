@@ -4,7 +4,7 @@ export const transcranial_magnetic_stimulation = <feature_T>{
 	title: `Transcranial Magnetic Stimulation (TMS)`,
 	description: `Transcranial Magnetic Stimulation (TMS) is a noninvasive brain stimulation technique. That has gained significant attention for its effectiveness in treating various neuropsychiatric conditions. Particularly major depressive disorder (MDD) and treatment-resistant depression (TRD).`,
 	slug: 'transcranial-magnetic-stimulation',
-	tag_a1: [
+	tags: [
 		'exercise',
 		'therapy',
 		'well-being',

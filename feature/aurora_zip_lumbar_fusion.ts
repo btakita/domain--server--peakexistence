@@ -4,7 +4,7 @@ export const aurora_zip_lumbar_fusion = <feature_T>{
 	title: `Aurora ZIP™ Lumbar Fusion`,
 	description: `Aurora ZIP™ Lumbar Fusion is a newer type of spinal fusion surgery. Designed to promote stability for conditions like degenerative disc disease or spondylolisthesis. Of the lower spine (lumbar region). The Aurora ZIP™ system utilizes a patented approach that minimizes surgical disruption.`,
 	slug: 'aurora-zip-lumbar-fusion',
-	tag_a1: [
+	tags: [
 		'aurora-zip-lumbar-fusion',
 		'back-pain',
 		'degenerative-disc-disease',

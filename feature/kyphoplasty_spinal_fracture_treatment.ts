@@ -4,7 +4,7 @@ export const kyphoplasty_spinal_fracture_treatment = <feature_T>{
 	title: `Kyphoplasty Spinal Fracture Treatment`,
 	description: `Kyphoplasty is a minimally invasive surgical procedure. Designed to treat vertebral compression fractures. Which are often caused by osteoporosis, cancer, or trauma. This procedure alleviates pain & also to stabilize the fracture. Restoring vertebral height. Correcting spinal deformities such as kyphosis.`,
 	slug: 'kyphoplasty-spinal-fracture-treatment',
-	tag_a1: [
+	tags: [
 		'kyphoplasty',
 		'kyphoplasty-spinal-fracture-treatment',
 		'minimally-invasive-spine-surgery',

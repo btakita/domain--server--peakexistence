@@ -12,7 +12,7 @@ Ultrasonic Screening uses high-frequency sound waves. To create detailed images 
 - strokes
 - amputations
 	`.trim(),
-	tag_a1: [
+	tags: [
 		'ultrasonic-screening-of-chronic-vessel-disease',
 		'ultrasonic-screening',
 		'chronic-vessel-disease',

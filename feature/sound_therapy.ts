@@ -7,7 +7,7 @@ export const sound_therapy = <feature_T>{
 	title: `Sound Therapy`,
 	description: `Sound therapy is a harmonious blend of ancient tradition & contemporary healing practices. Leveraging the intrinsic power of sound & vibration. This therapeutic approach transcends mere relaxation. Offering profound healing benefits for both the mind & body.`,
 	slug: 'sound-therapy',
-	tag_a1: [
+	tags: [
 		'anxiety',
 		'depression',
 		'meditation',

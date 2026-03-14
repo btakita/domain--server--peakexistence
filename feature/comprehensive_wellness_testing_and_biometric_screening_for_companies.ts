@@ -3,7 +3,7 @@ export const comprehensive_wellness_testing_and_biometric_screening_for_companie
 	title: 'Comprehensive Wellness Testing & Biometric Screening for Companies',
 	description: `Comprehensive wellness testing and biometric screening stand are pillars of proactive health management. This diagnostic duo offers a deep dive into the intricacies of your health. Providing actionable insights that pave the way for personalized health strategies.`,
 	slug: 'comprehensive-wellness-testing-and-biometric-screening-for-companies',
-	tag_a1: [
+	tags: [
 		'biometric-health-screening',
 		'biometric-screening',
 		'biometric-testing',

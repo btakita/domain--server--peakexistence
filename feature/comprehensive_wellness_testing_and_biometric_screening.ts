@@ -4,7 +4,7 @@ export const comprehensive_wellness_testing_and_biometric_screening = <feature_T
 	title: 'Comprehensive Wellness Testing & Biometric Screening',
 	description: `Comprehensive wellness testing and biometric screening stand are pillars of proactive health management. This diagnostic duo offers a deep dive into the intricacies of your health. Providing actionable insights that pave the way for personalized health strategies.`,
 	slug: 'comprehensive-wellness-testing-and-biometric-screening',
-	tag_a1: [
+	tags: [
 		'biometric-health-screening',
 		'biometric-screening',
 		'biometric-testing',

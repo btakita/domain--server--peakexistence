@@ -10,7 +10,7 @@ export const detox_therapy = <feature_T>{
 		`- managing withdrawal symptoms`,
 		`- preparing individuals for ongoing treatment`,),
 	slug: 'detox-therapy',
-	tag_a1: [
+	tags: [
 		'addiction-rehab',
 		'alcohol-detox',
 		'alcohol-rehab',

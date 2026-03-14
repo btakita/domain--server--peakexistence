@@ -5,6 +5,6 @@ export type feature_T = {
 	description:string
 	description_md?:string
 	slug:string
-	tag_a1:string[]
+	tags:string[]
 	hero_image?:string
 }

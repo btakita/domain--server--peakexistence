@@ -4,7 +4,7 @@ export const altitude_training = <feature_T>{
 	title: 'Altitude Training',
 	description: `Altitude training is a practice embraced by endurance athletes worldwide. Leveraging the physiological challenges posed by high-altitude environments to enhance athletic performance. Using the body's adaptive responses to hypoxia (low oxygen levels). To increase red blood cell count & oxygen-carrying capacity.`,
 	slug: 'altitude-training',
-	tag_a1: [
+	tags: [
 		'altitude',
 		'altitude-athletic',
 		'altitude-running',

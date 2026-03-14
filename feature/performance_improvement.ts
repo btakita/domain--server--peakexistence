@@ -15,7 +15,7 @@ export const performance_improvement = <feature_T>{
 		``,
 		`Modern sports science integrates advanced therapies with traditional training. To provide athletes with the edge they need.`
 	].join(nl),
-	tag_a1: [
+	tags: [
 		'performance-improvement',
 		'hyperbaric-oxygen-therapy',
 		'platelet-rich-plasma',
